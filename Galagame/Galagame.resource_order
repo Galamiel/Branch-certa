@@ -1,0 +1,22 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Conjuntos de tiles","order":2,"path":"folders/Conjuntos de tiles.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Misc","order":6,"path":"folders/Sprites/Misc.yy",},
+    {"name":"Player","order":5,"path":"folders/Sprites/Player.yy",},
+    {"name":"Inimigos","order":7,"path":"folders/Sprites/Inimigos.yy",},
+    {"name":"Parado","order":6,"path":"folders/Sprites/Player/Parado.yy",},
+    {"name":"Atacando","order":7,"path":"folders/Sprites/Player/Atacando.yy",},
+    {"name":"Correndo","order":8,"path":"folders/Sprites/Player/Correndo.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_entidade","order":1,"path":"objects/obj_entidade/obj_entidade.yy",},
+    {"name":"obj_block","order":2,"path":"objects/obj_block/obj_block.yy",},
+    {"name":"spr_player_run","order":1,"path":"sprites/spr_player_run/spr_player_run.yy",},
+    {"name":"spr_player_idle","order":1,"path":"sprites/spr_player_idle/spr_player_idle.yy",},
+    {"name":"spr_player_attack2","order":1,"path":"sprites/spr_player_attack2/spr_player_attack2.yy",},
+  ],
+}
